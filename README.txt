@@ -13,3 +13,6 @@ L'objectif est d'implémenter une application permettant de gérer des comptes b
 1. Ouvrir un second terminal
 2. Se rendre aussi dans le répertoire correspondant à l'aide de la commande "cd"
 3. Ecrire "./server" dans un terminal, et ENSUITE "./client" dans le second
+
+
+Fait en binôme avec Chaïma Ouerfili
